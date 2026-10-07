@@ -1,0 +1,40 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "expansion_armor:items/whitebread_spear"
+  },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 5, 4.5],
+			"scale": [3, 3, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 5, 4.5],
+			"scale": [3, 3, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [3, 4.5, -0.5],
+			"scale": [3, 3, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [3, 4.5, -0.5],
+			"scale": [3, 3, 1.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 21, 0],
+			"scale": [3, 3, 1.5]
+		},
+		"gui": {
+			"translation": [0, -1, 0]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [3, 3, 1.5]
+		}
+	}
+}

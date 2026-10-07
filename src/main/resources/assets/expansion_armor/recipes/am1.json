@@ -1,0 +1,37 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expansion_armor:amethyst2"
+    },
+    {
+      "item": "expansion_armor:amethyst"
+    },
+    {
+      "item": "expansion_armor:amethyst2"
+    },
+    {
+      "item": "expansion_armor:amethyst"
+    },
+    {
+      "item": "expansion_armor:s1"
+    },
+    {
+      "item": "expansion_armor:amethyst"
+    },
+    {
+      "item": "expansion_armor:amethyst2"
+    },
+    {
+      "item": "expansion_armor:amethyst"
+    },
+    {
+      "item": "expansion_armor:amethyst2"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:sword23",
+    "count": 1
+  }
+}

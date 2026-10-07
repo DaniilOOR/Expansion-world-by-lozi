@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "warden_helmet",
+    "enableBody": true,
+    "textureBody": "warden_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "warden_leggings",
+    "enableBoots": true,
+    "textureBoots": "warden_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "armorTextureFile": "warden",
+    "helmetName": "§3Warden Helmet",
+    "bodyName": "§3Warden Body",
+    "leggingsName": "§3Warden Leggings",
+    "bootsName": "§3Warden Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 6,
+    "damageValueBody": 14,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 6,
+    "enchantability": 20,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hirlwind",
+    "customModelName": "Normal",
+    "name": "Armored axe",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 14,
+    "damageVsEntity": 17.0,
+    "usageCount": 650,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ]
+  }
+}

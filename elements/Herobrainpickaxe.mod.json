@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_pickaxe_dungeon",
+    "customModelName": "Normal",
+    "name": "Herobrain pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 15.0,
+    "attackSpeed": 1.2,
+    "enchantability": 15,
+    "damageVsEntity": 10.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ]
+  }
+}

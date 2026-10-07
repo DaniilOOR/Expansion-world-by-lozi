@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "light_draid",
+    "customModelName": "Normal",
+    "name": "Lightning braid",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Special",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 2.0,
+    "enchantability": 20,
+    "damageVsEntity": 11.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Unstablesteel"
+      }
+    ],
+    "onEntityHitWith": {
+      "name": "FrostscytheMobIsHitWithTool"
+    }
+  }
+}

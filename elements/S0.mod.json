@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "loodstone_elmet",
+    "enableBody": true,
+    "textureBody": "loodstone_hestplate",
+    "enableLeggings": true,
+    "textureLeggings": "loodstone_eggings",
+    "enableBoots": true,
+    "textureBoots": "loodstone_oots",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "armorTextureFile": "loodstone__",
+    "helmetName": "Blood Helmet",
+    "bodyName": "Blood Chestplate",
+    "leggingsName": "Blood Leggings",
+    "bootsName": "Blood Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 44,
+    "damageValueHelmet": 4,
+    "damageValueBody": 10,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Shardofblood"
+      }
+    ]
+  }
+}

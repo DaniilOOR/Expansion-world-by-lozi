@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texturekamrodia.png": "texturekamrodia",
+        "lightning herosword.png": "lightning_herosword",
+        "textureSES.png": "textureses",
+        "textureabiporro.png": "textureabiporro",
+        "textureraghd.png": "textureraghd",
+        "diamond_block14.png": "diamond_block14",
+        "raddadste.png": "raddadste",
+        "lightning herosword  3.png": "lightning_herosword__3",
+        "lightning herosword  2.png": "lightning_herosword__2"
+      },
+      "name": "default"
+    }
+  }
+}

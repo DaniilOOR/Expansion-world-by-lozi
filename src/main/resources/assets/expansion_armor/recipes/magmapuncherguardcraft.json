@@ -1,0 +1,42 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_powder"
+    },
+    "1": {
+      "item": "minecraft:magma"
+    },
+    "2": {
+      "item": "expansion_armor:hard_iron"
+    },
+    "3": {
+      "item": "minecraft:magma"
+    },
+    "4": {
+      "item": "minecraft:redstone_block"
+    },
+    "5": {
+      "item": "expansion_armor:hard_iron"
+    },
+    "6": {
+      "item": "minecraft:blaze_powder"
+    },
+    "7": {
+      "item": "minecraft:magma"
+    },
+    "8": {
+      "item": "expansion_armor:hard_iron"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:magmapuncher2",
+    "count": 1
+  }
+}

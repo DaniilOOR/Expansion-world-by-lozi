@@ -1,0 +1,24 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:nuggetlig"
+    },
+    "1": {
+      "item": "expansion_armor:lstl"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:sw23",
+    "count": 1
+  }
+}

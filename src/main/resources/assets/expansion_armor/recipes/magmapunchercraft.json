@@ -1,0 +1,24 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:magma1"
+    },
+    "1": {
+      "item": "expansion_armor:magmapuncher2"
+    },
+    "2": {
+      "item": "expansion_armor:magmapuncher3"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:magma_puncher",
+    "count": 1
+  }
+}

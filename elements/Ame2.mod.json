@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Amethyst2"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:Amethyst2"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:S0.helmet"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:Amethyst2"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:Amethyst2"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Ameti.helmet"
+    },
+    "name": "ame2",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expansion_armor:lstl"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:nuggetlig",
+    "count": 4
+  }
+}

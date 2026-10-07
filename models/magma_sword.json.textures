@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "magma",
+        "2": "ob2",
+        "missing": "ob2"
+      },
+      "name": "default"
+    }
+  }
+}

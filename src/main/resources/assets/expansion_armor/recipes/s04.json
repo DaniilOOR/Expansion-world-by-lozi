@@ -1,0 +1,29 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:blood_plate"
+    },
+    "2": {
+      "item": "expansion_armor:blood_plate"
+    },
+    "3": {
+      "item": "expansion_armor:blood_plate"
+    },
+    "4": {
+      "item": "expansion_armor:b0boots"
+    },
+    "5": {
+      "item": "expansion_armor:blood_plate"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:s0boots",
+    "count": 1
+  }
+}

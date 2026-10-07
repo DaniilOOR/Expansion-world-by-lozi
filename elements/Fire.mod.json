@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "blaze_helmet_icon",
+    "enableBody": true,
+    "textureBody": "blaze_main_icon",
+    "enableLeggings": true,
+    "textureLeggings": "blaze_leggings_icon",
+    "enableBoots": true,
+    "textureBoots": "blaze_boots_icon",
+    "onBodyTick": {
+      "name": "FireArmorTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "armorTextureFile": "blaze_main_",
+    "helmetName": "§6Fire Helmet",
+    "bodyName": "§6Fire Chestplate",
+    "leggingsName": "§6Fire Leggings",
+    "bootsName": "§6Fire Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 33,
+    "damageValueHelmet": 2,
+    "damageValueBody": 7,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 10,
+    "toughness": 2.0,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Gradeshard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      },
+      {
+        "value": "CUSTOM:Shardofblood"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:G1"
+    },
+    "name": "bl5",
+    "namespace": "mod"
+  }
+}

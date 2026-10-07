@@ -1,0 +1,33 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "expansion_armor:hard_iron"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    },
+    "3": {
+      "item": "expansion_armor:hard_iron"
+    },
+    "5": {
+      "item": "expansion_armor:hard_iron"
+    },
+    "6": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "expansion_armor:hard_iron"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:magmapuncher3",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "1": {
+      "item": "expansion_armor:lstl"
+    },
+    "2": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "3": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "5": {
+      "item": "expansion_armor:unstablesteel"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:darkarmorhelmet",
+    "count": 1
+  }
+}

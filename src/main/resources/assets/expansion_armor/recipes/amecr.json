@@ -1,0 +1,16 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:amet"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:amethyst2",
+    "count": 4
+  }
+}

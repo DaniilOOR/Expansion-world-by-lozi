@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "t_hammer_unique2"
+      },
+      "name": "default"
+    }
+  }
+}

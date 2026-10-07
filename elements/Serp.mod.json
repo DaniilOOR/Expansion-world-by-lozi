@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sickles_3",
+    "customModelName": "Normal",
+    "name": "Sickle",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 2.0,
+    "enchantability": 14,
+    "damageVsEntity": 7.0,
+    "usageCount": 700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ]
+  }
+}

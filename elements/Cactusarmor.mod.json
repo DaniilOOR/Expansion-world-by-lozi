@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "cactushelmitem",
+    "enableBody": true,
+    "textureBody": "cactuschestitem",
+    "enableLeggings": true,
+    "textureLeggings": "cactuslegsitem",
+    "enableBoots": true,
+    "textureBoots": "cactusbootsitem",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "armorTextureFile": "cactus_",
+    "helmetName": "Cactus Helmet",
+    "bodyName": "Cactus Chestplate",
+    "leggingsName": "Cactus Leggings",
+    "bootsName": "Cactus Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 4,
+    "damageValueHelmet": 1,
+    "damageValueBody": 3,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 1,
+    "enchantability": 7,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_leather"
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.CACTUS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_fv": 6,
+  "_type": "loottable",
+  "definition": {
+    "type": "Entity",
+    "pools": [
+      {
+        "minrolls": 2,
+        "maxrolls": 6,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 2,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Sw23"
+            },
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Darkarmor.helmet"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Darkarmor.body"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Darkarmor.legs"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Darkarmor.boots"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Lstl"
+            },
+            "weight": 100
+          }
+        ]
+      }
+    ],
+    "name": "entities/dark_solder",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidian_shovel",
+    "customModelName": "Normal",
+    "name": "Obsidian shovel",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 7.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ]
+  }
+}

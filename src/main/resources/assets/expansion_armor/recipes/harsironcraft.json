@@ -1,0 +1,16 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:hard_iron",
+    "count": 1
+  }
+}

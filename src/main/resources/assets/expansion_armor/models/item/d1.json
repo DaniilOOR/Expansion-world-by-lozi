@@ -1,0 +1,6 @@
+{
+  "parent": "expansion_armor:custom/hammer_unique2",
+  "textures": {
+    "0": "expansion_armor:blocks/t_hammer_unique2"
+  }
+}

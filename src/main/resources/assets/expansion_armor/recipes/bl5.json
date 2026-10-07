@@ -1,0 +1,42 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "1": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "2": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "3": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "4": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "5": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "6": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "7": {
+      "item": "expansion_armor:shardofblood"
+    },
+    "8": {
+      "item": "expansion_armor:shardofblood"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:g1",
+    "count": 1
+  }
+}

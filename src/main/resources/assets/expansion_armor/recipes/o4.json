@@ -1,0 +1,13 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expansion_armor:g4"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:amethyst",
+    "count": 9
+  }
+}

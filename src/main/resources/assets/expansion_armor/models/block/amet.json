@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "expansion_armor:blocks/amethyst_cluster",
+    "particle": "expansion_armor:blocks/amethyst_cluster"
+  }
+}

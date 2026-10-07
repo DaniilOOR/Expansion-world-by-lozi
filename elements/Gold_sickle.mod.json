@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "serp_gold",
+    "customModelName": "Normal",
+    "name": "Gold sickle",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 8.0,
+    "attackSpeed": 2.0,
+    "enchantability": 24,
+    "damageVsEntity": 8.0,
+    "usageCount": 600,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ]
+  }
+}

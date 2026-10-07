@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "appleswordsheeet",
+    "customModelName": "Normal",
+    "name": "Apple sword",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 1.6,
+    "enchantability": 18,
+    "damageVsEntity": 4.0,
+    "usageCount": 32,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.APPLE"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "AppleswordRightClickedInAir"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmet_dusksteel",
+    "enableBody": true,
+    "textureBody": "chestplate_dusksteel",
+    "enableLeggings": true,
+    "textureLeggings": "leggings_dusksteel",
+    "enableBoots": true,
+    "textureBoots": "boots_dusksteel",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "armorTextureFile": "dusksteel__",
+    "helmetName": "Lightning Helmet",
+    "bodyName": "Lightning Chestplate",
+    "leggingsName": "Lightning Leggings",
+    "bootsName": "Lightning Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 40,
+    "damageValueHelmet": 4,
+    "damageValueBody": 9,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 3,
+    "enchantability": 20,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Lstl"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dead_braid",
+    "customModelName": "Normal",
+    "name": "Deadly braid",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Special",
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 2.0,
+    "enchantability": 15,
+    "damageVsEntity": 17.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Shardofblood"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "GdfhRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "DeadbraidMobIsHitWithTool"
+    }
+  }
+}

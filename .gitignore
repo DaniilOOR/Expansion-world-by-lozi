@@ -1,0 +1,28 @@
+# Gradle и сборка
+.gradle/
+build/
+out/
+
+# Тестовый запуск Minecraft и логи
+run/
+logs/
+user-cache/
+
+# Специфичные файлы MCreator
+.mcreator/
+*.mcbak
+*.lock
+
+# Настройки сред разработки (IDEA, Eclipse, VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db

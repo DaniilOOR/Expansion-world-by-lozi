@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "boneshovelitem",
+    "customModelName": "Normal",
+    "name": "Bone shovel",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 5.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.BONE"
+      }
+    ]
+  }
+}

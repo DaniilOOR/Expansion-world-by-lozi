@@ -1,0 +1,27 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:lstl"
+    },
+    "1": {
+      "item": "expansion_armor:lstl"
+    },
+    "3": {
+      "item": "expansion_armor:stl1"
+    },
+    "5": {
+      "item": "expansion_armor:stl1"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:iight",
+    "count": 1
+  }
+}

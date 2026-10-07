@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture10",
+        "1": "texture20",
+        "2": "texture30",
+        "3": "texture40",
+        "4": "texture50",
+        "5": "texture60"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expansion_armor:unstablesteelpickaxe"
+    },
+    {
+      "item": "expansion_armor:shardofblood"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:s2",
+    "count": 1
+  }
+}

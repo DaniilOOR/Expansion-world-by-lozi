@@ -1,0 +1,26 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:nuggetlig"
+    },
+    "1": {
+      "item": "expansion_armor:nuggetlig"
+    },
+    "2": {
+      "item": "expansion_armor:nuggetlig"
+    },
+    "3": {
+      "item": "expansion_armor:nuggetlig"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:lstl",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "expansion_armor:blocks/block_crystallite",
+    "particle": "expansion_armor:blocks/block_crystallite"
+  }
+}

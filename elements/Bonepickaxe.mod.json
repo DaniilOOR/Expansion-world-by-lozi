@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bonepickaxeitem",
+    "customModelName": "Normal",
+    "name": "Bone pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 6.0,
+    "attackSpeed": 1.2,
+    "enchantability": 14,
+    "damageVsEntity": 5.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.BONE"
+      }
+    ]
+  }
+}

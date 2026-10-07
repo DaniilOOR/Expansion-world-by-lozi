@@ -1,0 +1,42 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:amethyst"
+    },
+    "1": {
+      "item": "expansion_armor:amethyst"
+    },
+    "2": {
+      "item": "expansion_armor:amethyst"
+    },
+    "3": {
+      "item": "expansion_armor:amethyst"
+    },
+    "4": {
+      "item": "expansion_armor:amethyst"
+    },
+    "5": {
+      "item": "expansion_armor:amethyst"
+    },
+    "6": {
+      "item": "expansion_armor:amethyst"
+    },
+    "7": {
+      "item": "expansion_armor:amethyst"
+    },
+    "8": {
+      "item": "expansion_armor:amethyst"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:g4",
+    "count": 1
+  }
+}

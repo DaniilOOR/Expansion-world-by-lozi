@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Lozi Armor",
+    "icon": {
+      "value": "CUSTOM:S0.helmet"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cactussworditem",
+    "customModelName": "Normal",
+    "name": "Cactus sword",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 3.0,
+    "attackSpeed": 1.6,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 90,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.CACTUS"
+      }
+    ]
+  }
+}

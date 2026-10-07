@@ -1,0 +1,39 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "2": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "3": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "4": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "5": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "6": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "7": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "8": {
+      "item": "expansion_armor:gradeshard"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:firebody",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "expansion_armor:heart"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:strangestick",
+    "count": 1
+  }
+}

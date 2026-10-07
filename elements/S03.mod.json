@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Blood_plate"
+      },
+      {
+        "value": "CUSTOM:Blood_plate"
+      },
+      {
+        "value": "CUSTOM:Blood_plate"
+      },
+      {
+        "value": "CUSTOM:Blood_plate"
+      },
+      {
+        "value": "CUSTOM:B0.legs"
+      },
+      {
+        "value": "CUSTOM:Blood_plate"
+      },
+      {
+        "value": "CUSTOM:Blood_plate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Blood_plate"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:S0.legs"
+    },
+    "name": "s03",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rapier_platinum",
+    "customModelName": "Normal",
+    "name": "§dAmethyst sword",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 30,
+    "damageVsEntity": 12.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Amethyst"
+      }
+    ],
+    "onItemInUseTick": {
+      "name": "Amethysswordtick"
+    }
+  }
+}

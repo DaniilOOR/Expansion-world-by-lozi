@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "CUSTOM:Hard_iron"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Hard_iron"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "CUSTOM:Hard_iron"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Magmapuncher2"
+    },
+    "name": "magmapuncherguardcraft",
+    "namespace": "mod"
+  }
+}

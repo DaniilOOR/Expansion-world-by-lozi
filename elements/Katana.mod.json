@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "t_katana",
+    "customModelName": "Normal",
+    "name": "Ritual katana",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 10,
+    "damageVsEntity": 6.0,
+    "usageCount": 12,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "Strenght_1_katana"
+    },
+    "onRightClickedOnBlock": {
+      "name": "Strenght_1_katana"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "dark_solder": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "expansion_armor:9049-deti-prizraki-razgovarivajut-s-toboj",
+        "stream": false
+      }
+    ]
+  },
+  "dead_dark_solder": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "expansion_armor:dead",
+        "stream": false
+      }
+    ]
+  },
+  "hurt_dark_solder": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "expansion_armor:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "living_dark_solder": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "expansion_armor:living",
+        "stream": false
+      }
+    ]
+  },
+  "used": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "expansion_armor:otkryitie-novogo-predmeta-v-igre",
+        "stream": false
+      }
+    ]
+  }
+}

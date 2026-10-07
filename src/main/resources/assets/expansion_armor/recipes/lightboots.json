@@ -1,0 +1,26 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:nuggetlig"
+    },
+    "2": {
+      "item": "expansion_armor:nuggetlig"
+    },
+    "3": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "5": {
+      "item": "expansion_armor:unstablesteel"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:darkarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "1": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "2": {
+      "item": "expansion_armor:unstablesteel"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:unstablesteelpickaxe",
+    "count": 1
+  }
+}

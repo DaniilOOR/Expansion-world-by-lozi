@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "magma_test_puncher",
+    "customModelName": "my_magma_puncher:default",
+    "name": "Magma puncher",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.6,
+    "enchantability": 10,
+    "damageVsEntity": 16.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Hard_iron"
+      }
+    ],
+    "onEntityHitWith": {
+      "name": "FirebrandMobIsHitWithTool"
+    }
+  }
+}

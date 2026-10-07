@@ -1,0 +1,26 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:emeraldarmorboots",
+    "count": 1
+  }
+}

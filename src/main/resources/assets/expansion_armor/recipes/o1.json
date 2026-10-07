@@ -1,0 +1,13 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expansion_armor:g3"
+    }
+  ],
+  "result": {
+    "item": "expansion_armor:lstl",
+    "count": 9
+  }
+}

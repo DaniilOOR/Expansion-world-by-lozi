@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidian_hoe",
+    "customModelName": "Normal",
+    "name": "Obsidian hoe",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 5.0,
+    "attackSpeed": 4.0,
+    "enchantability": 5,
+    "damageVsEntity": 1.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cactus"
+    },
+    "2": {
+      "item": "minecraft:cactus"
+    },
+    "3": {
+      "item": "minecraft:cactus"
+    },
+    "5": {
+      "item": "minecraft:cactus"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:cactusarmorboots",
+    "count": 1
+  }
+}

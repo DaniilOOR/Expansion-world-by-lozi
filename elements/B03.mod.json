@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Unstablesteel"
+      },
+      {
+        "value": "CUSTOM:Unstablesteel"
+      },
+      {
+        "value": "CUSTOM:Unstablesteel"
+      },
+      {
+        "value": "CUSTOM:Unstablesteel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Unstablesteel"
+      },
+      {
+        "value": "CUSTOM:Unstablesteel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Unstablesteel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:B0.legs"
+    },
+    "name": "b03",
+    "namespace": "mod"
+  }
+}

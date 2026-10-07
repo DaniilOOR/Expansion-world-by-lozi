@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bonehelmitem",
+    "enableBody": true,
+    "textureBody": "bonechestitem",
+    "enableLeggings": true,
+    "textureLeggings": "bonelegsitem",
+    "enableBoots": true,
+    "textureBoots": "bonebootsitem",
+    "creativeTab": {
+      "value": "CUSTOM:Vanila_armor_plus"
+    },
+    "armorTextureFile": "bone_",
+    "helmetName": "Bone Helmet",
+    "bodyName": "Bone Chestplate",
+    "leggingsName": "Bone Leggings",
+    "bootsName": "Bone Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 9,
+    "damageValueHelmet": 1,
+    "damageValueBody": 5,
+    "damageValueLeggings": 3,
+    "damageValueBoots": 1,
+    "enchantability": 14,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_iron"
+    },
+    "repairItems": [
+      {
+        "value": "Items.BONE"
+      }
+    ]
+  }
+}

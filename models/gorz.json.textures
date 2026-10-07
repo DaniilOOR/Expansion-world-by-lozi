@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3texture.png": "texture",
+        "log_oak.png": "log_oak",
+        "2textureSES.png": "textureses",
+        "4log_oak_top.png": "log_oak_top",
+        "1texture3.png": "texture3"
+      },
+      "name": "default"
+    }
+  }
+}

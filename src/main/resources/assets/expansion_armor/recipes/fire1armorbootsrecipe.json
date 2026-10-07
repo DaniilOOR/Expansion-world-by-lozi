@@ -1,0 +1,26 @@
+{
+  "group": "expansion_armor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "2": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "3": {
+      "item": "expansion_armor:gradeshard"
+    },
+    "5": {
+      "item": "expansion_armor:gradeshard"
+    }
+  },
+  "result": {
+    "item": "expansion_armor:fireboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "expansion_armor:custom/my_magma_puncher",
+  "textures": {
+    "0": "expansion_armor:blocks/tiekstura_maghmovogho_miecha"
+  }
+}

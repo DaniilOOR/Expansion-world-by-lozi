@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmet_platinum",
+    "enableBody": true,
+    "textureBody": "chestplate_platinum",
+    "enableLeggings": true,
+    "textureLeggings": "leggings_platinum",
+    "enableBoots": true,
+    "textureBoots": "boots_platinum",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "armorTextureFile": "phantom_main_",
+    "helmetName": "§dAmethyst Helmet",
+    "bodyName": "§dAmethyst Chestplate",
+    "leggingsName": "§dAmethyst Leggings",
+    "bootsName": "§dAmethyst Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 100,
+    "damageValueHelmet": 5,
+    "damageValueBody": 12,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 5,
+    "enchantability": 30,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Amethyst"
+      }
+    ]
+  }
+}
