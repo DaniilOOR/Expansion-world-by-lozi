@@ -2,19 +2,14 @@
   "group": "expansion_armor",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0",
-    "1",
-    "2"
+    "01"
   ],
   "key": {
     "0": {
-      "item": "minecraft:netherbrick"
-    },
-    "1": {
       "item": "minecraft:blaze_rod"
     },
-    "2": {
-      "item": "minecraft:netherbrick"
+    "1": {
+      "item": "expansion_armor:hard_iron"
     }
   },
   "result": {

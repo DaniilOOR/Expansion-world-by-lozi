@@ -38,7 +38,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.Block;
 
-import net.mcreator.expansion_armor.item.ItemShardofblood;
+import net.mcreator.expansion_armor.item.ItemRaw_shard_of_blood;
 import net.mcreator.expansion_armor.creativetab.TabStrangearmor;
 import net.mcreator.expansion_armor.ElementsExpansionarmor;
 
@@ -146,7 +146,7 @@ public class BlockBloodore extends ElementsExpansionarmor.ModElement {
 
 		@Override
 		public void getDrops(NonNullList<ItemStack> drops, IBlockAccess world, BlockPos pos, IBlockState state, int fortune) {
-			drops.add(new ItemStack(ItemShardofblood.block, (int) (1)));
+			drops.add(new ItemStack(ItemRaw_shard_of_blood.block, (int) (1)));
 		}
 
 		@Override

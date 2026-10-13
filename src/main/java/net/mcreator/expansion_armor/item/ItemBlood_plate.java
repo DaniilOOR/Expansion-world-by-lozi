@@ -36,7 +36,7 @@ public class ItemBlood_plate extends ElementsExpansionarmor.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 16;
+			maxStackSize = 32;
 			setUnlocalizedName("blood_plate");
 			setRegistryName("blood_plate");
 			setCreativeTab(TabStrangearmor.tab);

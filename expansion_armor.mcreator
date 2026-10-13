@@ -651,25 +651,9 @@
       "ids": {}
     },
     {
-      "name": "Stl1",
-      "type": "item",
-      "sortid": 107,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "Lgt2",
       "type": "recipe",
       "sortid": 108,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Lgtst",
-      "type": "recipe",
-      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2272,6 +2256,38 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Raw_shard_of_blood",
+      "type": "item",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Raw_Unstable_steel",
+      "type": "item",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rawunst",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Raw_blood_furn",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [
@@ -2319,10 +2335,10 @@
       "tile.g5.name": "§6Mystical block",
       "item.herobrainpickaxe.name": "Herobrain pickaxe",
       "item.obsidianaxe.name": "Obsidian axe",
-      "item.a4.name": "Unstable hoe",
       "item.blood_plate.name": "Blood plate",
-      "item.xp_sword.name": "Xp sword",
+      "item.a4.name": "Unstable hoe",
       "item.obsidian_armorbody.name": "Obsidian Chestplate",
+      "item.xp_sword.name": "Xp sword",
       "item.b0legs.name": "Unstable Leggings",
       "item.darkarmorbody.name": "Lightning Chestplate",
       "itemGroup.tabstrangearmor": "Lozi Armor",
@@ -2332,13 +2348,14 @@
       "item.magma1.name": "Magma puncher blade",
       "item.wardenboots.name": "§3Warden Boots",
       "item.obsidianshovel.name": "Obsidian shovel",
-      "item.cactusarmorboots.name": "Cactus Boots",
       "item.ss3.name": "Diablo",
+      "item.cactusarmorboots.name": "Cactus Boots",
       "item.cactusshovel.name": "Cactus shovel",
       "item.obsidianpickaxe.name": "Obsidian pickaxe",
       "item.strangestick.name": "Strange stick",
       "item.wardentunicabody.name": "§3Warden Tunica",
       "item.iight.name": "Lightning braid",
+      "item.raw_shard_of_blood.name": "Raw blood shard",
       "item.dead12.name": "Dead blade",
       "item.ark_katana.name": "Big katana",
       "item.emeraldarmorbody.name": "Emerald Chestplate",
@@ -2386,6 +2403,7 @@
       "item.serp.name": "Sickle",
       "item.r2.name": "Braid",
       "item.emeraldshovel.name": "Emerald shovel",
+      "item.raw_unstable_steel.name": "Raw unstable steel",
       "item.whitebreadspear.name": "Whitebeard spear",
       "item.darkarmorhelmet.name": "Lightning Helmet",
       "item.emeraldarmorboots.name": "Emerald Boots",
@@ -2424,7 +2442,6 @@
       "item.cactusarmorlegs.name": "Cactus Leggings",
       "item.s0boots.name": "Blood Boots",
       "item.enderbigsword.name": "Ender big sword",
-      "item.stl1.name": "Lightning stick",
       "item.boneshovel.name": "Bone shovel",
       "item.b0boots.name": "Unstable Boots",
       "item.ironbigsword.name": "Iron big sword",

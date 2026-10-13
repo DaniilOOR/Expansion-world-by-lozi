@@ -38,7 +38,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.Block;
 
-import net.mcreator.expansion_armor.item.ItemUnstablesteel;
+import net.mcreator.expansion_armor.item.ItemRaw_Unstable_steel;
 import net.mcreator.expansion_armor.creativetab.TabStrangearmor;
 import net.mcreator.expansion_armor.ElementsExpansionarmor;
 
@@ -107,7 +107,7 @@ public class BlockOrecrystal extends ElementsExpansionarmor.ModElement {
 
 		@Override
 		public void getDrops(NonNullList<ItemStack> drops, IBlockAccess world, BlockPos pos, IBlockState state, int fortune) {
-			drops.add(new ItemStack(ItemUnstablesteel.block, (int) (1)));
+			drops.add(new ItemStack(ItemRaw_Unstable_steel.block, (int) (1)));
 		}
 
 		@Override

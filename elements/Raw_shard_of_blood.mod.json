@@ -3,13 +3,13 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "light_stick",
+    "texture": "raw_blood",
     "customModelName": "Normal",
-    "name": "Lightning stick",
+    "name": "Raw blood shard",
     "creativeTab": {
       "value": "CUSTOM:Strangearmor"
     },
-    "stackSize": 8,
+    "stackSize": 16,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,

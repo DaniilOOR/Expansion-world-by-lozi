@@ -31,7 +31,7 @@
     "destroyTool": "pickaxe",
     "affectedBySilkTouch": true,
     "customDrop": {
-      "value": "CUSTOM:Unstablesteel"
+      "value": "CUSTOM:Raw_Unstable_steel"
     },
     "dropAmount": 1,
     "isBeaconBase": false,

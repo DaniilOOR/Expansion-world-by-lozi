@@ -16,11 +16,11 @@ import net.mcreator.expansion_armor.creativetab.TabStrangearmor;
 import net.mcreator.expansion_armor.ElementsExpansionarmor;
 
 @ElementsExpansionarmor.ModElement.Tag
-public class ItemStl1 extends ElementsExpansionarmor.ModElement {
-	@GameRegistry.ObjectHolder("expansion_armor:stl1")
+public class ItemRaw_Unstable_steel extends ElementsExpansionarmor.ModElement {
+	@GameRegistry.ObjectHolder("expansion_armor:raw_unstable_steel")
 	public static final Item block = null;
-	public ItemStl1(ElementsExpansionarmor instance) {
-		super(instance, 107);
+	public ItemRaw_Unstable_steel(ElementsExpansionarmor instance) {
+		super(instance, 310);
 	}
 
 	@Override
@@ -31,14 +31,14 @@ public class ItemStl1 extends ElementsExpansionarmor.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("expansion_armor:stl1", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("expansion_armor:raw_unstable_steel", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 8;
-			setUnlocalizedName("stl1");
-			setRegistryName("stl1");
+			maxStackSize = 16;
+			setUnlocalizedName("raw_unstable_steel");
+			setRegistryName("raw_unstable_steel");
 			setCreativeTab(TabStrangearmor.tab);
 		}
 

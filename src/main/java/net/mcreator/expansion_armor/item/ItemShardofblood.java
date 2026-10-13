@@ -36,7 +36,7 @@ public class ItemShardofblood extends ElementsExpansionarmor.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 32;
+			maxStackSize = 16;
 			setUnlocalizedName("shardofblood");
 			setRegistryName("shardofblood");
 			setCreativeTab(TabStrangearmor.tab);

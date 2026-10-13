@@ -36,7 +36,7 @@ public class ItemMagmastick extends ElementsExpansionarmor.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 1;
+			maxStackSize = 16;
 			setUnlocalizedName("magmastick");
 			setRegistryName("magmastick");
 			setCreativeTab(TabStrangearmor.tab);

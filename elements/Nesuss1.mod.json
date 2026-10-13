@@ -9,28 +9,28 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
-      },
-      {
-        "value": "Items.NETHERBRICK"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
         "value": "Items.BLAZE_ROD"
       },
       {
+        "value": "CUSTOM:Hard_iron"
+      },
+      {
+        "value": ""
+      },
+      {
         "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "Items.NETHERBRICK"
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
       },
       {
         "value": ""

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "expansion_armor:items/1_stick"
+    "layer0": "expansion_armor:items/strange_stick"
   }
 }
