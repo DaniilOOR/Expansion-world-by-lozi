@@ -20,6 +20,11 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.mcreator.expansion_armor.procedure.ProcedureFireArmorTickEvent;
 import net.mcreator.expansion_armor.creativetab.TabStrangearmor;
 import net.mcreator.expansion_armor.ElementsExpansionarmor;
+import net.mcreator.expansion_armor.client.ModelFireArms;
+
+import net.minecraft.entity.EntityLivingBase; 
+import net.minecraft.entity.Entity;       
+import net.minecraft.client.model.ModelBiped;
 
 @ElementsExpansionarmor.ModElement.Tag
 public class ItemFire extends ElementsExpansionarmor.ModElement {
@@ -31,6 +36,10 @@ public class ItemFire extends ElementsExpansionarmor.ModElement {
 	public static final Item legs = null;
 	@GameRegistry.ObjectHolder("expansion_armor:fireboots")
 	public static final Item boots = null;
+
+	@SideOnly(Side.CLIENT)
+	private static ModelFireArms armsModel;
+	
 	public ItemFire(ElementsExpansionarmor instance) {
 		super(instance, 121);
 	}

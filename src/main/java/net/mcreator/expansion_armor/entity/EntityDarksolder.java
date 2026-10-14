@@ -61,7 +61,7 @@ public class EntityDarksolder extends ElementsExpansionarmor.ModElement {
 	@Override
 	public void init(FMLInitializationEvent event) {
 		Biome[] spawnBiomes = allbiomes(Biome.REGISTRY);
-		EntityRegistry.addSpawn(EntityCustom.class, 1, 1, 2, EnumCreatureType.CREATURE, spawnBiomes);
+		EntityRegistry.addSpawn(EntityCustom.class, 1, 1, 2, EnumCreatureType.MONSTER, spawnBiomes);
 		DungeonHooks.addDungeonMob(new ResourceLocation("expansion_armor:dark_solder"), 180);
 	}
 
@@ -171,7 +171,7 @@ public class EntityDarksolder extends ElementsExpansionarmor.ModElement {
 			int k = (int) this.posZ;
 			Random random = this.rand;
 			if (true)
-				for (int l = 0; l < 6; ++l) {
+				for (int l = 0; l < 3; ++l) {
 					double d0 = (i + random.nextFloat());
 					double d1 = (j + random.nextFloat());
 					double d2 = (k + random.nextFloat());

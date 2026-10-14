@@ -763,7 +763,7 @@
       "type": "armor",
       "sortid": 121,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -2287,6 +2287,22 @@
       "sortid": 312,
       "compiles": true,
       "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ModelFireArms",
+      "type": "code",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "ClientStuf",
+      "type": "code",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": true,
       "ids": {}
     }
   ],
