@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wood_paxel",
+    "customModelName": "Normal",
+    "name": "Wooden Paxel",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 0.8,
+    "enchantability": 15,
+    "damageVsEntity": 10.0,
+    "usageCount": 59,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ]
+  }
+}

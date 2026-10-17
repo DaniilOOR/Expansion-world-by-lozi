@@ -2304,6 +2304,86 @@
       "compiles": true,
       "locked_code": true,
       "ids": {}
+    },
+    {
+      "name": "Paxel_diamond",
+      "type": "tool",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Goldpaxel",
+      "type": "tool",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ironpaxel",
+      "type": "tool",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Woodenpaxel",
+      "type": "tool",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stonepaxel",
+      "type": "tool",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Diamondpaxelrecipe",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Goldpaxelrecipe",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ironpaxelrecipe",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stonepaxelrecipe",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Woodenpaxelrecipe",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [
@@ -2351,10 +2431,10 @@
       "tile.g5.name": "§6Mystical block",
       "item.herobrainpickaxe.name": "Herobrain pickaxe",
       "item.obsidianaxe.name": "Obsidian axe",
-      "item.blood_plate.name": "Blood plate",
       "item.a4.name": "Unstable hoe",
-      "item.obsidian_armorbody.name": "Obsidian Chestplate",
+      "item.blood_plate.name": "Blood plate",
       "item.xp_sword.name": "Xp sword",
+      "item.obsidian_armorbody.name": "Obsidian Chestplate",
       "item.b0legs.name": "Unstable Leggings",
       "item.darkarmorbody.name": "Lightning Chestplate",
       "itemGroup.tabstrangearmor": "Lozi Armor",
@@ -2408,6 +2488,7 @@
       "item.amethyst.name": "§dAmethyst steel",
       "item.cactusarmorhelmet.name": "Cactus Helmet",
       "item.stonepickaxe.name": "Bone sword",
+      "item.ironpaxel.name": "Iron Paxel",
       "item.boneaxe.name": "Bone axe",
       "item.wardentunicalegs.name": "Warden Tunica Leggings",
       "item.stone_armorbody.name": "Bone Chestplate",
@@ -2423,6 +2504,7 @@
       "item.whitebreadspear.name": "Whitebeard spear",
       "item.darkarmorhelmet.name": "Lightning Helmet",
       "item.emeraldarmorboots.name": "Emerald Boots",
+      "item.paxel_diamond.name": "Diamond Paxel",
       "item.cactuspickaxe.name": "Cactus pickaxe",
       "item.katana.name": "Ritual katana",
       "item.axeblade.name": "Axe blade",
@@ -2441,6 +2523,7 @@
       "item.wardensoul.name": "§3Warden soul",
       "item.st1.name": "Blade of death",
       "item.emeraldaxe.name": "Emerald axe",
+      "item.stonepaxel.name": "Stone Paxel",
       "item.cactussword.name": "Cactus sword",
       "item.s4.name": "Blood shovel",
       "item.heart.name": "Heart",
@@ -2461,6 +2544,7 @@
       "item.boneshovel.name": "Bone shovel",
       "item.b0boots.name": "Unstable Boots",
       "item.ironbigsword.name": "Iron big sword",
+      "item.goldpaxel.name": "Gold Paxel",
       "item.diamondbidsword.name": "Diamond big sword",
       "item.obsidiansword.name": "Obsidian sword",
       "item.a2.name": "Unstable sword",
@@ -2479,6 +2563,7 @@
       "item.armoredaxe.name": "Armored axe",
       "item.wardentunicaboots.name": "Warden Tunica Boots",
       "item.magma_puncher.name": "Magma puncher",
+      "item.woodenpaxel.name": "Wooden Paxel",
       "item.bonesword.name": "Bone sword",
       "item.s3.name": "Blood axe",
       "item.emeraldarmorhelmet.name": "Emerald Helmet",

@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "gold_paxel",
+    "customModelName": "Normal",
+    "name": "Gold Paxel",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 0,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 10.0,
+    "usageCount": 32,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ]
+  }
+}

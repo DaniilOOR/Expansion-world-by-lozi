@@ -13,6 +13,7 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.mcreator.expansion_armor.item.ItemFire;
 import net.minecraft.client.renderer.GlStateManager;
+import net.minecraft.util.EnumParticleTypes;
 
 @SideOnly(Side.CLIENT)
 @Mod.EventBusSubscriber(modid = "expansion_armor", value = Side.CLIENT)
@@ -31,7 +32,7 @@ public class ClientStuf {
                         @Override
                         public void doRenderLayer(AbstractClientPlayer player, float limbSwing, float limbSwingAmount, float partialTicks, float ageInTicks, float netHeadYaw, float headPitch, float scale) {
                             
-                            // Ультра-скорость: Если шлема нет, Java не тратит ресурсы на проверку остальных 3-х слотов!
+
                             if (player.inventory.armorInventory.get(3).getItem() == ItemFire.helmet &&
                                 player.inventory.armorInventory.get(2).getItem() == ItemFire.body &&
                                 player.inventory.armorInventory.get(1).getItem() == ItemFire.legs &&
@@ -44,6 +45,29 @@ public class ClientStuf {
                                 
                                 armsModel.render(player, limbSwing, limbSwingAmount, ageInTicks, netHeadYaw, headPitch, scale);
                                 GlStateManager.popMatrix();
+
+                                if (!Minecraft.getMinecraft().isGamePaused() && player.world.rand.nextInt(40) == 0) {
+                                    // Рандомное небольшое смещение вокруг центра тела игрока
+                                    double offsetX = (player.world.rand.nextFloat() - 0.5D) * 0.4D;
+                                    double offsetY = (player.world.rand.nextFloat() - 0.5D) * 0.4D;
+                                    double offsetZ = (player.world.rand.nextFloat() - 0.5D) * 0.4D;
+
+                                    player.world.spawnParticle(
+                                        EnumParticleTypes.SMOKE_LARGE, 
+                                        player.posX + offsetX, 
+                                        player.posY + offsetY + 0.5D, 
+                                        player.posZ + offsetZ, 
+                                        0.0D, 0.0D, 0.0D
+                                    );
+
+                                    player.world.spawnParticle(
+                                        EnumParticleTypes.SMOKE_LARGE, 
+                                        player.posX + offsetX, 
+                                        player.posY + offsetY + 1.25D, 
+                                        player.posZ + offsetZ, 
+                                        0.0D, 0.0D, 0.0D
+                                    );
+                                }
                             }
                         }
 

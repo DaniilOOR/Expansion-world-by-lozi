@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "stone_paxel",
+    "customModelName": "Normal",
+    "name": "Stone Paxel",
+    "creativeTab": {
+      "value": "CUSTOM:Strangearmor"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.8,
+    "enchantability": 5,
+    "damageVsEntity": 12.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}
